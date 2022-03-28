@@ -1,0 +1,10 @@
+{
+	"git": [
+		{ "title": "lowcode默认提供的物料", "repository": "https://github.com/lowcode-scaffold/lowcode-materials.git" },
+		{
+			"title": "lowcode默认提供的物料(国内镜像)",
+			"repository": "https://gitee.com/lowcode-scaffold/lowcode-materials.git"
+		}
+	],
+	"npm": [{ "title": "@lowcoding/materials-template", "repository": "@lowcoding/materials-template" }]
+}
